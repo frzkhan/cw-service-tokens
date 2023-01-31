@@ -1,0 +1,9 @@
+module.exports = {
+  fastify: { active: true },
+  rabbitmq: { active: true },
+  redis: { active: true },
+  swagger: { active: true },
+  mongodb: {
+    active: false
+  }
+}

@@ -1,0 +1,5 @@
+module.exports = {
+  NANOID_ALPHABETS: '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ',
+  TOKEN_LENGTH: 20,
+  TOKEN_EXPIRY_DEFAULT: 60 * 60 * 24 * 30
+}
